@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @knmukaffa30
+- 👋 Hi, I’m Khairun Najmi M
 
 <!---
 knmukaffa30/knmukaffa30 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
